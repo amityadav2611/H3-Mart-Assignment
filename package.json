@@ -1,0 +1,26 @@
+{
+  "name": "h3-mart-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "xlsx": "^0.18.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amityadav2611/H3-Mart-Assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amityadav2611/H3-Mart-Assignment/issues"
+  },
+  "homepage": "https://github.com/amityadav2611/H3-Mart-Assignment#readme"
+}
